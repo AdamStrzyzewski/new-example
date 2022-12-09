@@ -1,1 +1,2 @@
 Plik do wrzucenia
+zmiany
